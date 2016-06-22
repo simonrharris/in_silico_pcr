@@ -1,5 +1,7 @@
 # in_silico_pcr
 
+Script to run an in silico pcr for a set of primer pairs on an assembly
+
 REQUIREMENTS:
 
 Requires tre approximate regex module https://github.com/laurikari/tre/ to be in your path 
