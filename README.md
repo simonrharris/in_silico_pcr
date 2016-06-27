@@ -10,7 +10,7 @@ USAGE:
 
 in_silico_pcr.py [options] fasta/multifasta input files
 
-Options:
+Options:<br>
   -h, --help            show this help message and exit<br>
   -p FILE, --primers=FILE
                         text file containing primers. For each region of
